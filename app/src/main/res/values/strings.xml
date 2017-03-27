@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="historic_places">Historic Places</string>
+    <string name="hotels">Hotels</string>
+    <string name="parks">Parks</string>
+    <string name="bangalore">Bangalore</string>
+    <string name="location_image">Location Image</string>
+    <string-array name="resturants_array">
+        <item>Vidyarthi Bhavan</item>
+        <item>Mavalli Tiffin Rooms</item>
+        <item>Maiyas Restaurant</item>
+        <item>Central Tiffin Room</item>
+    </string-array>
+    <string-array name="historic_places_array">
+        <item>Vidhana Soudha</item>
+        <item>State Central Library</item>
+        <item>Karnataka High Court</item>
+        <item>Bangalore Fort</item>
+    </string-array>
+    <string-array name="hotels_array">
+        <item>The Leela Palace</item>
+        <item>Le Meridien</item>
+        <item>Taj Vivanta</item>
+        <item>The Lalit Ashok</item>
+    </string-array>
+    <string-array name="parks_array">
+        <item>Cubbon Park</item>
+        <item>Lalbagh Botanical Garden</item>
+        <item>M. N. Krishna Rao Park</item>
+        <item>Wonderla Amusement Park</item>
+    </string-array>
+</resources>
